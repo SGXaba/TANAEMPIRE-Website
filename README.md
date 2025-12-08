@@ -24,4 +24,4 @@ No frameworks. Lightning fast. Full control.
 
 ### Proudly South African
 - Prices in Rands (ZAR)  
-- Made with love in Mzansi  
+- Made with love in Mzansi 
