@@ -1,27 +1,31 @@
 # TANA Empire – Official Website
 
 **It never stops.**  
-Proudly crafted in South Africa  
+Proudly crafted in South Africa
 
 A luxury brand for those who demand timeless sophistication.
 
-### Live Preview
-https://sgxaba.github.io/TANAEMPIRE-Website (once deployed)
+### Brand Owner
+**Singatha Xaba** – Founder & Creative Director of TANA Empire
+
+### Website Built By
+**Lusapho Makhubalo** & **Singatha Xaba**  
+Collaborative development, 2025
+
+### Live Site
+https://sgxaba.github.io/TANAEMPIRE-Website (once GitHub Pages is enabled)
 
 ### Pages
 - Home  
 - About  
-- Products (with ZAR pricing)  
+- Products (ZAR pricing)  
 - Contact  
 
 ### Tech Stack
-Pure vanilla: HTML5 • CSS3 • JavaScript (ES6+)  
-No frameworks. Lightning fast. Full control.
+Pure vanilla: HTML5 • CSS3 • JavaScript  
+No frameworks. Fast. Elegant. Fully controlled.
 
 ### Local Development
-1. Clone the repo
-2. Open `index.html` in your browser or use Live Server in VS Code
-
-### Proudly South African
-- Prices in Rands (ZAR)  
-- Made with love in Mzansi 
+```bash
+git clone https://github.com/SGXaba/TANAEMPIRE-Website.git
+code .  # open in VS Code
